@@ -1,5 +1,9 @@
 1.Hvað gera eftirfarandi Linux skipanir?
-cd -  fer á heimasvæði notandanns
-ls -  sýnir hvað er í skránni sem notandi er í
-pwd - prentar út í hvaða skrá notandinn er í
-mkdir -  stendur fyrir "make directory" býr til skrá
+cd -  er stendur fyrir change directory þá skiptir þú um stað sem þú ert að vinna á
+ls -  sýnir hvað er í skránni sem notandi er í 
+pwd -  prentar út í hvaða skrá notandinn er í 
+mkdir -  stendur fyrir make directory býr til skrá
+2.Hvað gera eftirfarandi Git skipanir?
+git clone -  klónar repository i nýtt directory
+git status -  gáir á stöðu git repository
+git diff -  sýnir breytingar á commits, commit og working tree,og svo fleira
