@@ -15,3 +15,5 @@ git branch -  list, búa til eða eyða útibúum
 -  Það er stjórnun af breytingum af skrám
 5.Hverjir eru helstu kostir við að nota GIT?
 -  Þegar það þarf að vinna saman á verkefnum og fyrir fyrirtæki
+6.Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+-  Eftir hverja spurningu eða málsgrein, það er gott að viti allar breytingarnar og af hverjum þær eru gerðar
