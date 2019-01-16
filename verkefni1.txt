@@ -10,4 +10,6 @@ git diff -  sýnir breytingar á commits, commit og working tree,og svo fleira
 3.Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log -  sýnir commit logs
 git checkout -  skyptir um greynar og endurheimtar workign tree skrár
-git branch -  list, búa til eða eyða ustibúum
+git branch -  list, búa til eða eyða útibúum
+4.Hvað er útgáfustýring (Version Control)?
+-  Það er stjórnun af breytingum af skrám
