@@ -13,3 +13,5 @@ git checkout -  skyptir um greynar og endurheimtar workign tree skrár
 git branch -  list, búa til eða eyða útibúum
 4.Hvað er útgáfustýring (Version Control)?
 -  Það er stjórnun af breytingum af skrám
+5.Hverjir eru helstu kostir við að nota GIT?
+-  Þegar það þarf að vinna saman á verkefnum og fyrir fyrirtæki
