@@ -17,3 +17,6 @@ git branch -  list, búa til eða eyða útibúum
 -  Þegar það þarf að vinna saman á verkefnum og fyrir fyrirtæki
 6.Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 -  Eftir hverja spurningu eða málsgrein, það er gott að viti allar breytingarnar og af hverjum þær eru gerðar
+7.Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+Working directory -  er svæðið sem þú vinnur í verkefninu sem þú tókst af Repository
+staging area -  er mappa sem heldur utan um hvað fer í þínu næsta commit
